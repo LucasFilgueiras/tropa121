@@ -65,3 +65,10 @@ div.discord img{
     right: 8px;
     bottom: 5px;
 }
+div.imagem-marretao img{
+    width: 220px;
+    position: absolute;
+    left: 550px;
+    bottom: 0px;
+    top: 570px;
+}
