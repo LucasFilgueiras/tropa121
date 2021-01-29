@@ -15,9 +15,10 @@ h1{
 }
 div.imagem-baratao img{
     width: 250px;
+    height: 100px;
     position: absolute;
     left: 4%;
-    bottom: 58%;
+    bottom: 60%;
 }
 div.imagem-tinem img{
     width: 220px;
