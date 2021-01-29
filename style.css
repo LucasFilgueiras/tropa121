@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-image: url(wallpaper-tropa.png);
+    background-image: url(imagens/wallpaper-tropa.png);
     background-attachment: fixed;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -59,4 +59,9 @@ audio{
     height: 50px;
     position: absolute;
     top: 20px;
+}
+div.discord img{
+    position: absolute;
+    right: 8px;
+    bottom: 5px;
 }
