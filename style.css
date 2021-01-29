@@ -16,27 +16,27 @@ h1{
 div.imagem-baratao img{
     width: 250px;
     position: absolute;
-    left: 50px;
+    left: 4%;
 }
 div.imagem-tinem img{
     width: 220px;
     position: absolute;
-    left: 60px;
-    bottom: 130px;
+    left: 5%;
+    bottom: 16%;
 }
 div.imagem-chiquim img{
     width: 280px;
     height: 100px;
     position: absolute;
-    left: 1010px;
-    bottom: 400px;
+    left: 75%;
+    bottom: 60%;
 }
 div.imagem-sagat img{
     width: 250px;
     height: 100px;
     position: absolute;
-    left: 1010px;
-    bottom: 120px;
+    left: 76%;
+    bottom: 16%;
 }
 div.baratao img{
     width: 320px;
@@ -68,7 +68,7 @@ div.discord img{
 div.imagem-marretao img{
     width: 220px;
     position: absolute;
-    left: 550px;
-    bottom: 0px;
-    top: 570px;
+    left: 43%;
+    bottom: 0%;
+    top: 85%;
 }
