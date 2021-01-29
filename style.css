@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(wallpaper-tropa.png);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+h1{
+    color:yellow;
+    text-align: center;
+    font-size: 60px;
+    background-size: 100%;
+}
+div.imagem-baratao img{
+    width: 250px;
+    position: absolute;
+    left: 50px;
+}
+div.imagem-tinem img{
+    width: 220px;
+    position: absolute;
+    left: 60px;
+    bottom: 130px;
+}
+div.imagem-chiquim img{
+    width: 280px;
+    height: 100px;
+    position: absolute;
+    left: 1010px;
+    bottom: 400px;
+}
+div.imagem-sagat img{
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    left: 1010px;
+    bottom: 120px;
+}
+div.baratao img{
+    width: 320px;
+    height: 320px;
+}
+h2{
+    font-size: 30px;
+    color: yellow;
+}
+p{
+    font-size: 20px;
+    color: yellow;
+}
+div.chiquim img{
+    width: 320px;
+    height: 320px;
+}
